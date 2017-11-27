@@ -1,0 +1,6 @@
+#eclipse file
+.classpath
+.project
+
+#generate file
+/bin/
